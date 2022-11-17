@@ -1,1 +1,2 @@
 In this analysis, we will focus on salary prediction. The data set includes information on job descriptions and salaries. Using this data set, the goal is to see if we can predict the salary of a job posting (i.e., the `Salary` column in the data set) based on the job description. This is important, because this model can make a salary recommendation as soon as a job description is entered into a system.
+The html file contains the analysis done in R with another dataset which demostrates how to categorize employees in different income segments.
